@@ -1,0 +1,12 @@
+name: avengers
+title: avengers
+username:
+account: jdtrat-apps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4302188
+bundleId: 4741764
+url: https://jdtrat-apps.shinyapps.io/avengers/
+when: 1624334372.5078
+asMultiple: FALSE
+asStatic: FALSE
